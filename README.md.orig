@@ -4,8 +4,12 @@
 
 ### This is a third-tier heading
 
-# Added New Line
+<<<<<<< HEAD
+#### Test for mamun vai
 #### Mamun vaiyer file ses
+=======
+# Added New Line
+>>>>>>> 1092646ade59ba1500f1c0f663c9f218344b249a
 
 You can use  one `#` all the way up to `######` six for different heading sizes.
 
