@@ -14,7 +14,10 @@ If you'd like to quote someone, use the > character before the line:
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
 
+<<<<<<< HEAD
 # Structured documents Structured documents
+=======
 
 # Shariar Hossain
 ###### This is my first comment.
+>>>>>>> 6fac09f7c619377cf2489748e2a897e7b91b7f97
